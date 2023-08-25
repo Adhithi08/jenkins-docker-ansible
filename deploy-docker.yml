@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  become: True
+  tasks:
+    - name: Start the container
+      docker_container:
+        name: dockeransible
+        image: "ahmedabdelgawad23/dockeransible:{{DOCKER_TAG}}"
+        state: started
+        published_ports:
+         - 0.0.0.0:8080:8081
