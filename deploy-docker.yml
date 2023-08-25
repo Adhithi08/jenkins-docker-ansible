@@ -1,6 +1,6 @@
 ---
 - hosts: dev
-  become: True
+  #become: True
   tasks:
     - name: Start the container
       docker_container:
