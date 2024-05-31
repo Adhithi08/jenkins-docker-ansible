@@ -1,2 +1,2 @@
-[dev]
-127.0.0.1 ansible_user=ahmed
+[slave1]
+10.0.2.12
