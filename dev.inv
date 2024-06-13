@@ -1,2 +1,2 @@
-[webserver-52222222082]
-10.0.2.6 ansible_user=mohan
+[webserver-52222222231]
+10.0.2.5 ansible_user=adhithi
