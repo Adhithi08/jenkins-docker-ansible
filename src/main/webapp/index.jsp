@@ -49,7 +49,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Hello world! My name is MOHANRAAJ 52222222082</h2>
+        <h2>Hello world! My name is Adhithi Surendran Nair</h2>
         <form id="nameForm">
             <input type="text" id="nameInput" placeholder="Enter your name" required>
             <br>
